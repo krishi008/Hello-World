@@ -1,2 +1,11 @@
-This is a first file created for testing
-made changes to  the file... "THIS IS A CHANGE"
+…or create a new repository on the command line...
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/krishi008/<Project-Name>.git
+git push -u origin master
+
+
+…or push an existing repository from the command line...
+git remote add origin https://github.com/krishi008/<Project-Name>.git
+git push -u origin master
